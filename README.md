@@ -14,5 +14,11 @@ Hack it!!!
   
 
 <br>
+  
 
-<!-- <img src= "/images/Hfest-Logo-2-Color-Manga%402x.png" width= "400"/>
+
+<!-- <img src= "/images/Hfest-Logo-2-Color-Manga%402x.png" width= "400"/>-->
+
+### This is a program to create a calculator with Java Programming along with interface. 
+  
+  Scientific & Trignometric functions can be added and should modify the UI according to it with a good look.
